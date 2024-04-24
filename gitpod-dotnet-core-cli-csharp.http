@@ -1,0 +1,6 @@
+@gitpod_dotnet_core_cli_csharp_HostAddress = http://localhost:5173
+
+GET {{gitpod_dotnet_core_cli_csharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
